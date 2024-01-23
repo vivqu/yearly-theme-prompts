@@ -1,4 +1,7 @@
 ![Cover image](https://github.com/vivqu/yearly-theme-prompts/blob/main/cover.png)
+<i>(This image was generated using ChatGPT through prompting trial and error to capture the process of brainstorming yearly themes.)</i>
+
+---
 
 # Yearly Theme Prompts for ChatGPT
 
