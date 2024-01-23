@@ -1,8 +1,10 @@
 # Yearly Theme Prompts for ChatGPT
 
+![Cover image](https://github.com/vivqu/yearly-theme-prompts/blob/main/yearly-theme.png)
+
 ---
 
-At the start of each year, my family and I each pick a "yearly theme" instead of new year's resolutions. The yearly theme acts as a guiding principle to help direct our energy, activities, and decisions throughout the year. The idea of a yearly theme was inspired by [The Cortex podcast](https://www.relay.fm/cortex) and their excellent [Theme System](https://www.themesystem.com/) notebook.
+At the start of each year, my partner and I each pick a "yearly theme" instead of new year's resolutions. The yearly theme acts as a guiding principle to help direct our energy, activities, and decisions throughout the year. The idea of a yearly theme was inspired by [The Cortex podcast](https://www.relay.fm/cortex) and their excellent [Theme System](https://www.themesystem.com/) notebook.
 
 However, [naming things is really hard](https://martinfowler.com/bliki/TwoHardThings.html). If you are anything like me, I start with a long list of aspirations and [leitmotifs](https://www.youtube.com/watch?v=itMJ-fUPXqE) for the upcoming year but then have trouble distilling it down into a simple word or phrase. I'll be referring to this name for an entire year so I want it to be a good balance of specific, inspirational, and memorable. The goal is to be able to refer to it simply as <<**The Year of \[\[...\]\]**>>.
 
