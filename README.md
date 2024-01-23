@@ -1,4 +1,4 @@
-![Cover image](https://github.com/vivqu/yearly-theme-prompts/blob/main/yearly-theme.png)
+![Cover image](https://github.com/vivqu/yearly-theme-prompts/blob/main/cover.png)
 
 # Yearly Theme Prompts for ChatGPT
 
