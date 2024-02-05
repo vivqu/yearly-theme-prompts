@@ -5,7 +5,7 @@
 
 # Yearly Theme Prompts for ChatGPT
 
-Here is a collection of ChatGPT prompts tailored to help you brainstorm and choose your yearly theme name. Yearly themes are a more flexible and adaptable alternative to new year's resolutions. 
+Here is a collection of ChatGPT prompts tailored to help you brainstorm and choose your yearly theme. A yearly theme is a guiding principle selected to provide direction and motivation throughout the year, allowing for flexibility and growth beyond the constraints of traditional New Year's resolutions.
 
 Click below to jump to the specific prompts:
 - [Yearly Theme Name](https://github.com/vivqu/yearly-theme-prompts?tab=readme-ov-file#prompt-yearly-theme-name)
