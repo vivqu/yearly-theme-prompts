@@ -5,11 +5,15 @@
 
 # Yearly Theme Prompts for ChatGPT
 
-At the start of each year, my partner and I each pick a "yearly theme" instead of new year's resolutions. The yearly theme acts as a guiding principle to help direct our energy, activities, and decisions throughout the year. The idea of a yearly theme was inspired by [The Cortex podcast](https://www.relay.fm/cortex) and their excellent [Theme System](https://www.themesystem.com/) notebook.
 
-However, [naming things is really hard](https://martinfowler.com/bliki/TwoHardThings.html). If you are anything like me, I start with a long list of aspirations and [leitmotifs](https://www.youtube.com/watch?v=itMJ-fUPXqE) for the upcoming year but then have trouble distilling it down into a simple word or phrase. I'll be referring to this name for an entire year so I want it to be a good balance of specific, inspirational, and memorable. The goal is to be able to refer to it simply as <<**The Year of \[\[...\]\]**>>.
+Here is a collection of ChatGPT prompts tailored to help you brainstorm and choose your yearly theme name. Yearly themes are a more flexible and adaptable alternative to new year's resolutions. 
 
-When choosing the names for our 2024 themes, we discovered that ChatGPT is an excellent brainstorm partner. Here I share the prompts that we used to generate the words, mission statement, and images that represent our yearly themes. A few friends have already tested the prompts out and reported back good results. This will also be a useful reference for generating themes for future years!
+Click below to jump to the specific prompts:
+- [Yearly Theme Name](https://github.com/vivqu/yearly-theme-prompts?tab=readme-ov-file#prompt-yearly-theme-name)
+- [Mission Statement](https://github.com/vivqu/yearly-theme-prompts?tab=readme-ov-file#prompt-mission-statement)
+- [Concept Image](https://github.com/vivqu/yearly-theme-prompts?tab=readme-ov-file#prompt-theme-concept-image)
+
+To learn more about the background behind yearly themes, check out [From thought to theme: brainstorming yearly theme names](https://vivqu.com/blog/2024/02/04/yearly-theme-prompts/).
 
 For all of the below prompts, we got good output using ChatGPT4. 
 
