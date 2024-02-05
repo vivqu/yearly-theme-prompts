@@ -5,7 +5,6 @@
 
 # Yearly Theme Prompts for ChatGPT
 
-
 Here is a collection of ChatGPT prompts tailored to help you brainstorm and choose your yearly theme name. Yearly themes are a more flexible and adaptable alternative to new year's resolutions. 
 
 Click below to jump to the specific prompts:
@@ -13,12 +12,12 @@ Click below to jump to the specific prompts:
 - [Mission Statement](https://github.com/vivqu/yearly-theme-prompts?tab=readme-ov-file#prompt-mission-statement)
 - [Concept Image](https://github.com/vivqu/yearly-theme-prompts?tab=readme-ov-file#prompt-theme-concept-image)
 
-To learn more about the background behind yearly themes, check out [From thought to theme: brainstorming yearly theme names](https://vivqu.com/blog/2024/02/04/yearly-theme-prompts/).
+To learn more about the background behind yearly themes, check out [From thought to theme: Brainstorming yearly theme names](https://vivqu.com/blog/2024/02/04/yearly-theme-prompts/).
 
 For all of the below prompts, we got good output using ChatGPT4. 
 
 
-# Prompt: Name for the Yearly Theme
+# Prompt: Yearly Theme Name
 
 To brainstorm naming, we utilized role and dual prompting approaches to provide more detailed instruction and higher quality output.
 
